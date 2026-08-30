@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2005-remove-or-relocate-the-orphaned-contracts",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2005-remove-or-relocate-the-orphaned-contracts": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2005-remove-or-relocate-the-orphaned-contracts",
+    "origin"
+  ]
+}
